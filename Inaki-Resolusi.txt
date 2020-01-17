@@ -1,0 +1,3 @@
+Inaki Resolusi
+- belajar Git - VCS
+- basic terminal usage
