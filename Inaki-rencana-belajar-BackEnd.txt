@@ -3,3 +3,5 @@ Rencana Belajar Back End
 - Internet
 - Dasar pengetahuan FrontEnd
 - OS and General Knowledge
+- Belajar C#
+- Belajar MySQL
