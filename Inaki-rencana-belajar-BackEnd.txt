@@ -3,6 +3,7 @@ Rencana Belajar Back End
 - Internet
 - Dasar pengetahuan FrontEnd
 - Belajar C#
+- NoSQL Database
 - Belajar MySQL
 - Belajar APIs
 - Testing
