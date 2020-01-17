@@ -1,5 +1,5 @@
 Inaki Resolusi
 - belajar Git - VCS
 - belajar basic terminal usage
-- belajar data structures & algorithms
 - belajar GitHub
+- belajar Licenses
