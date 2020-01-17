@@ -2,11 +2,10 @@ Rencana Belajar Back End
 
 - Internet
 - Dasar pengetahuan FrontEnd
-- OS and General Knowledge
 - Belajar C#
 - NoSQL Database
 - Belajar MySQL
 - Belajar APIs
-- Caching
-- Web Security
-- Message Brokers
+- Testing
+- CI/CD
+- Design
